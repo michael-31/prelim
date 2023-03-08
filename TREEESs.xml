@@ -1,0 +1,150 @@
+		
+			
+<tree>
+	<oak>
+		<height>30 meters</height>
+		<circumference>10 meters</circumference>
+		<leaves>
+			<color>green</color>
+			<size>large</size>
+			<texture>smooth</texture>
+		</leaves>
+		<branches>
+			<length>5 meters</length>
+			<angle>60 degrees</angle>
+			<texture>rough</texture>
+		</branches>
+		<trunk>
+			<bark>gray</bark>
+			<texture>ridged</texture>
+			<age>100 years</age>
+		</trunk>
+		<acorns>
+			<size>medium</size>
+			<color>brown</color>
+			<texture>smooth</texture>
+		</acorns>
+		<location>
+			<country>United States</country>
+			<state>California</state>
+			<city>Los Angeles</city>
+		</location>
+	</oak>
+	<pine>
+		<height>40 meters</height>
+		<circumference>8 meters</circumference>
+		<leaves>
+			<color>green</color>
+			<size>small</size>
+			<texture>needles</texture>
+		</leaves>
+		<branches>
+			<length>6 meters</length>
+			<angle>45 degrees</angle>
+			<texture>smooth</texture>
+		</branches>
+		<trunk>
+			<bark>brown</bark>
+			<texture>smooth</texture>
+			<age>80 years</age>
+		</trunk>
+		<cones>
+			<size>large</size>
+			<color>brown</color>
+			<texture>rough</texture>
+		</cones>
+		<location>
+			<country>Canada</country>
+			<province>Ontario</province>
+			<city>Toronto</city>
+		</location>
+	</pine>
+	<redwood>
+		<height>110 meters</height>
+		<circumference>25 meters</circumference>
+		<leaves>
+			<color>green</color>
+			<size>none</size>
+			<texture>n/a</texture>
+		</leaves>
+		<branches>
+			<length>15 meters</length>
+			<angle>30 degrees</angle>
+			<texture>smooth</texture>
+		</branches>
+		<trunk>
+			<bark>reddish-brown</bark>
+			<texture>ridged</texture>
+			<age>200 years</age>
+		</trunk>
+		<cones>
+			<size>large</size>
+			<color>gray</color>
+			<texture>smooth</texture>
+		</cones>
+		<location>
+			<country>United States</country>
+			<state>California</state>
+			<city>San Francisco</city>
+		</location>
+	</redwood>
+	<maple>
+		<height>25 meters</height>
+		<circumference>5 meters</circumference>
+		<leaves>
+			<color>red, orange, yellow</color>
+			<size>medium</size>
+			<texture>smooth</texture>
+		</leaves>
+		<branches>
+			<length>4 meters</length>
+			<angle>75 degrees</angle>
+			<texture>rough</texture>
+		</branches>
+		<trunk>
+			<bark>brown</bark>
+			<texture>ridged</texture>
+			<age>50 years</age>
+		</trunk>
+		<helicopter_seeds>
+			<size>small</size>
+			<color>brown</color>
+			<texture>smooth</texture>
+		</helicopter_seeds>
+		<location>
+			<country>Canada</country>
+			<province>Quebec</province>
+			<city>Montreal</city>
+		</location>
+	</maple>
+	<cedar>
+		<height>20 meters</height>
+		<circumference>3 meters</circumference>
+		<leaves>
+			<color>green</color>
+			<size>small</size>
+			<texture>needles</texture>
+		</leaves>
+		<branches>
+			<length>3 meters</length>
+			<angle>90 degrees</angle>
+			<texture>rough</texture>
+		</branches>
+		<trunk>
+			<bark>reddish-brown</bark>
+			<texture>ridged</texture>
+			<age>70 years</age>
+		</trunk>
+		<cones>
+			<size>small</size>
+			<color>brown</color>
+			<texture>rough</texture>
+		</cones>
+		<location>
+			<country>United States</country>
+			<state>Texas</state>
+			<city>Houston</city>
+		</location>
+	</cedar>
+</tree>
+		
